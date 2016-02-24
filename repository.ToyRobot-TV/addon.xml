@@ -4,7 +4,7 @@
 	<extension point="xbmc.addon.repository" name="Toy Robot TV Official Repo">
 		<info compressed="false">https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/master/plugin.video.ToyRobotTV</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/tree/master/plugin.video.ToyRobotTV</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Toy Robot TV Official Repo</summary>
