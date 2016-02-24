@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ToyRobot-TV" name="Toy Robot TV  Repo" version="0.0.3" provider-name="Toy Robot TV">
+	<extension point="xbmc.addon.repository" name="Toy Robot TV Official Repo">
+		<info compressed="false">https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/blob/master/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/blob/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/albertquest/Toy-Robot-TV-Rep/blob/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Toy Robot TV Official Repo</summary>
+   		<description lang="en">Instala los Addons de Toy Robot TV.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
